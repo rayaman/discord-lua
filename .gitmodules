@@ -1,0 +1,6 @@
+[submodule "multi"]
+	path = multi
+	url = https://github.com/rayaman/multi.git
+[submodule "bin"]
+	path = bin
+	url = https://github.com/rayaman/bin.git
